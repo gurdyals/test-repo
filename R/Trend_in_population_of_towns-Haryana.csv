@@ -1,0 +1,155 @@
+Class,Name of the City or Town,District,Population_2011,Population_2001,Population_1981,Population_1971,Population_1951,Population_1901
+Class-I,Faridabad (M Corp.),Faridabad,1414050,1055938,330864,122817,37393,9816
+Class-I,Gurgaon (M Corp. & OG),Gurgaon,886519,228820,100877,57151,18613,4765
+Class-I,Rohtak (M Cl),Rohtak,374292,294577,166767,124755,71902,20323
+Class-I,Hisar (M Cl & OG),Hisar,307024,263186,137369,89437,35297,17647
+Class-I,Karnal (M Cl & OG),Karnal,302140,221236,132107,92784,59790,23559
+Class-I,Panipat (M Cl & OG),Panipat,295970,354148,137927,87981,54981,26914
+Class-I,Sonipat (M Cl & OG),Sonipat,289333,225074,109369,62393,30189,12990
+Class-I,Yamunanagar (M Cl & OG),Yamunanagar,217071,306740,160424,115020,39627,13462
+Class-I,Panchkula (M Cl),Panchkula,211355,140925,11239,NA,NA,NA
+Class-I,Bhiwani (M Cl),Bhiwani,196057,169531,101277,73086,52183,35917
+Class-I,Ambala (M Cl) Cantt,Ambala,195153,168316,121203,102493,94043,NA
+Class-I,Sirsa (M Cl),Sirsa,182534,160735,89068,48808,24980,15800
+Class-I,Bahadurgarh (M Cl),Jhajjar,170767,131925,37488,25812,11170,5974
+Class-I,Jind (M Cl),Jind,167592,135855,56748,38161,19449,8047
+Class-I,Thanesar (M Cl),Kurukshetra,155152,122319,49052,29555,11273,5066
+Class-I,Kaithal (M Cl),Kaithal,144915,117285,58385,45199,28422,14408
+Class-I,Rewari (M Cl),Rewari,143021,100684,51562,43885,34082,27295
+Class-I,Palwal (M Cl & OG),Palwal,131926,100722,47328,36207,13915,12830
+Class-I,Jagadhri (M Cl),Yamunanagar,124894,NA,NA,NA,NA,NA
+Class-I,Ambala (M Cl & OG) City,Ambala,104974,139279,104565,83633,57979,78638
+Class-II,Hansi (M Cl),Hisar,86770,75747,50365,41108,25837,16523
+Class-II,Narnaul (M Cl),Mahendragarh,74581,62077,41441,31875,18180,19489
+Class-II,Fatehabad (M Cl),Fatehabad,70777,59917,33049,22630,2968,2786
+Class-II,Panipat Taraf Makhdum Zadgan (CT),Panipat,67998,NA,NA,NA,NA,NA
+Class-II,Gohana (MC),Sonipat,65708,48532,26188,16754,8796,6567
+Class-II,Tohana (M Cl),Fatehabad,63871,51519,25487,16789,7955,NA
+Class-II,Narwana (M Cl),Jind,62090,50435,29242,21319,10368,NA
+Class-II,Charkhi Dadri (MC),Bhiwani,56337,44895,27315,19484,8795,7009
+Class-II,Ambala Cantt. (CB),Ambala,55370,NA,NA,NA,NA,NA
+Class-II,Mandi Dabwali (MC),Sirsa,52873,53811,29071,20921,10380,NA
+Class-II,Hodal (MC),Palwal,50143,38309,18740,14144,8303,8142
+Class-III,Jhajjar (MC),Jhajjar,48424,39002,24247,18947,10514,12227
+Class-III,Barwala (MC),Hisar,43384,33132,17648,NA,NA,NA
+Class-III,Panipat Taraf Ansar (CT),Panipat,42877,NA,NA,NA,NA,NA
+Class-III,Shahbad (MC),Kurukshetra,42607,37289,26308,21500,17301,11009
+Class-III,Samalkha (MC & OG),Panipat,39710,29866,13532,NA,NA,NA
+Class-III,Cheeka (MC),Kaithal,38952,32128,NA,NA,NA,NA
+Class-III,Pehowa (MC),Kurukshetra,38853,33564,17279,11366,NA,NA
+Class-III,Gharaunda (MC),Karnal,37816,30172,17332,13045,8632,NA
+Class-III,Ratia (MC),Fatehabad,37152,23826,13065,NA,NA,NA
+Class-III,Ellenabad (MC),Sirsa,36623,32795,NA,NA,NA,1624
+Class-III,Sohna (MC),Gurgaon,36552,27570,12667,8775,5138,6024
+Class-III,Pinjore (MC),Panchkula,35912,29609,NA,NA,NA,NA
+Class-III,Ganaur (MC),Sonipat,35603,29006,16489,8399,NA,NA
+Class-III,Safidon (MC),Jind,34728,27541,15116,12010,9426,4832
+Class-III,Kalka (MC & OG),Panchkula,34134,30830,21359,17711,14058,7045
+Class-III,Pundri (MC & OG),Kaithal,33484,17018,11804,9107,6552,5834
+Class-III,Dharuhera (MC),Rewari,30344,18892,NA,NA,NA,NA
+Class-III,Mahendragarh (MC),Mahendragarh,29128,24323,14488,11496,7961,9984
+Class-III,Ladwa (MC),Kurukshetra,28887,22339,15119,10666,6237,3518
+Class-III,Panipat Taraf Rajputan (CT),Panipat,28803,NA,NA,NA,NA,NA
+Class-III,Assandh (MC),Karnal,27125,22707,13209,NA,NA,NA
+Class-III,Babiyal (CT),Ambala,26412,21644,7342,NA,NA,NA
+Class-III,Taraori (MC),Karnal,25944,22201,12803,NA,NA,NA
+Class-III,Gangwa (166) (CT),Hisar,25847,NA,NA,NA,NA,NA
+Class-III,Adampur (CT),Hisar,25531,NA,NA,NA,NA,NA
+Class-III,Rania (MC),Sirsa,25123,20961,16714,12464,NA,4384
+Class-III,Kharkhoda (MC),Sonipat,25051,18763,NA,NA,NA,3765
+Class-III,Ferozepur jhirka (MC),Mewat,24750,17755,9400,7962,4444,7278
+Class-III,Punahana (MC),Mewat,24734,13179,NA,NA,NA,NA
+Class-III,Ugra Kheri (CT),Panipat,24440,NA,NA,NA,NA,NA
+Class-III,Manesar (CT),Gurgaon,23448,NA,NA,NA,NA,NA
+Class-III,Kalanaur (MC),Rohtak,23319,16853,12380,NA,NA,7640
+Class-III,Palwal (Rural) (Part) (CT),Palwal,23072,NA,NA,NA,NA,NA
+Class-III,Naraingarh (MC),Ambala,22832,18210,9370,6880,NA,NA
+Class-III,Taoru (MC),Mewat,22599,17328,6912,NA,NA,NA
+Class-III,Sasauli (CT),Yamunanagar,22479,NA,NA,NA,NA,NA
+Class-III,Kalanwali (MC),Sirsa,22095,25163,9643,6531,2622,NA
+Class-III,Kundli (CT),Sonipat,21633,NA,NA,NA,NA,NA
+Class-III,Barara (CT),Ambala,21545,NA,NA,NA,NA,NA
+Class-III,Hailey Mandi (MC),Gurgaon,20906,17081,10140,2252,1346,NA
+Class-III,Sampla (MC),Rohtak,20563,NA,NA,NA,NA,NA
+Class-III,Tilpat (CT),Faridabad,20514,6369,NA,NA,NA,NA
+Class-III,Maham (MC),Rohtak,20484,18174,11722,10541,8536,7824
+Class-III,Pataudi (MC),Gurgaon,20418,16085,8422,6045,3688,4171
+Class-III,Bawani khera (MC),Bhiwani,20289,17424,11530,NA,NA,NA
+Class-IV,Siwani (MC),Bhiwani,19143,15850,NA,NA,NA,NA
+Class-IV,Kansepur (CT),Yamunanagar,18909,14952,NA,NA,NA,NA
+Class-IV,Julana (MC),Jind,18755,13635,9294,6890,3522,NA
+Class-IV,Kardhan (CT),Ambala,18662,9579,NA,NA,NA,NA
+Class-IV,Kalayat (MC),Kaithal,18660,17051,10965,NA,NA,NA
+Class-IV,Kheri Nangal (CT),Panipat,18195,NA,NA,NA,NA,NA
+Class-IV,Nilokheri (MC),Karnal,17938,16405,11078,9357,6287,NA
+Class-IV,Indri (MC),Karnal,17487,14511,8304,NA,NA,NA
+Class-IV,Nissing (MC),Karnal,17438,NA,NA,NA,NA,NA
+Class-IV,Bhondsi (CT),Gurgaon,17410,NA,NA,NA,NA,NA
+Class-IV,Narnaund (MC),Hisar,17242,15116,NA,NA,NA,NA
+Class-IV,Uchana (MC),Jind,16815,14111,8091,6329,2745,NA
+Class-IV,Bawal (MC),Rewari,16776,12144,7760,6529,5392,5739
+Class-IV,Nuh (MC),Mewat,16260,11039,5992,4730,2892,NA
+Class-IV,Beri (MC),Jhajjar,15934,16162,13490,12336,9952,9723
+Class-IV,Badshahpur (CT),Gurgaon,15593,NA,NA,NA,NA,NA
+Class-IV,Tosham (CT),Bhiwani,15559,11272,NA,5039,NA,NA
+Class-IV,Sadaura (CT),Yamunanagar,14818,13176,10131,8971,7566,9812
+Class-IV,Hathin (MC),Palwal,14421,10916,6553,NA,NA,4301
+Class-IV,Jandli (Part) (CT),Ambala,14397,NA,NA,NA,NA,NA
+Class-IV,Loharu (MC),Bhiwani,13937,11421,7247,5579,3438,2175
+Class-IV,Ismailabad (CT),Kurukshetra,13726,NA,NA,NA,NA,NA
+Class-IV,Radaur (CT),Yamunanagar,13690,11737,8105,6539,3837,NA
+Class-IV,Farrukhnagar (MC),Gurgaon,13513,9521,6367,5487,4947,6136
+Class-IV,Uklana Mandi (CT),Hisar,13219,10937,7055,5981,NA,NA
+Class-IV,Kanina (MC),Mahendragarh,12989,10195,7131,5875,3457,NA
+Class-IV,Pingwan (CT),Mewat,12612,NA,NA,NA,NA,NA
+Class-IV,Satrod Kalan(CT),Hisar,11932,NA,NA,NA,NA,NA
+Class-IV,Bilaspur (CT),Yamunanagar,11733,9621,NA,NA,NA,NA
+Class-IV,Hassan Pur (MC),Palwal,11569,9090,5109,NA,NA,NA
+Class-IV,Nagina (CT),Mewat,11417,NA,NA,NA,NA,NA
+Class-IV,Satrod Khas (CT),Hisar,10932,NA,NA,NA,NA,NA
+Class-IV,Buria (CT),Yamunanagar,10903,9830,6258,4645,3635,5865
+Class-IV,Chhachhrauli (CT),Yamunanagar,10533,9710,6140,5382,4444,5520
+Class-V,Bhakali (CT),Rewari,9970,NA,NA,NA,NA,NA
+Class-V,Farakhpur (CT),Yamunanagar,9569,8740,NA,NA,NA,NA
+Class-V,Badhi Majra (CT),Yamunanagar,9188,NA,NA,NA,NA,NA
+Class-V,Maheshari (CT),Rewari,9180,NA,NA,NA,NA,NA
+Class-V,Chandi Mandir (CT),Panchkula,9051,NA,NA,NA,NA,NA
+Class-V,Mustafabad (CT),Yamunanagar,9042,8516,NA,NA,NA,NA
+Class-V,Raipur Rani (CT),Panchkula,9028,7031,NA,NA,NA,NA
+Class-V,Uncha Siwana (CT),Karnal,8922,10610,NA,NA,NA,NA
+Class-V,Sikanderpur (CT),Panipat,8894,NA,NA,NA,NA,NA
+Class-V,Panipat Sec. 11&12 Part II (CT),Panipat,8876,NA,NA,NA,NA,NA
+Class-V,Nagal Chaudhry (CT),Mahendragarh,8538,7368,NA,NA,NA,NA
+Class-V,Boh (CT),Ambala,8482,NA,NA,NA,NA,NA
+Class-V,Saha (CT)i,Ambala,8100,NA,NA,NA,NA,NA
+Class-V,Garhi Harsaru (CT),Gurgaon,7894,NA,NA,NA,NA,NA
+Class-V,Jhakal Mandi (CT),Fatehabad,7788,6895,4609,3919,2040,NA
+Class-V,Ateli (MC),Mahendragarh,7619,5673,2993,1937,1015,NA
+Class-V,Sunari Kalan (CT),Rohtak,7506,NA,NA,NA,NA,NA
+Class-V,Aakera (CT),Rewari,7110,NA,NA,NA,NA,NA
+Class-V,Kabri (CT),Panipat,7049,NA,NA,NA,NA,NA
+Class-V,Badh Malak (CT),Sonipat,6938,NA,NA,NA,NA,NA
+Class-V,Ladrawan (CT),Jhajjar,6905,8008,NA,NA,NA,NA
+Class-V,Asan Khurd (CT),Panipat,6873,8066,NA,NA,NA,NA
+Class-V,Mayyer (CT),Hisar,6039,NA,NA,NA,NA,NA
+Class-V,Nanhera(CT),Ambala,6035,NA,NA,NA,NA,NA
+Class-V,Khori Kalan (CT),Mewat,6007,NA,NA,NA,NA,NA
+Class-V,Ghatal Mahaniawas (CT),Rewari,6005,NA,NA,NA,NA,NA
+Class-V,Rampura (CT),Rewari,5954,NA,NA,NA,NA,NA
+Class-V,Salamba (CT),Mewat,5727,NA,NA,NA,NA,NA
+Class-V,Tundla(CT),Ambala,5658,NA,NA,NA,NA,NA
+Class-V,Bhuran (CT),Jind,5603,NA,NA,NA,NA,NA
+Class-V,Satrod Khurd (CT),Hisar,5568,NA,NA,NA,NA,NA
+Class-V,Baghola (CT),Palwal,5413,NA,NA,NA,NA,NA
+Class-V,Bayyanpur (CT),Sonipat,5406,NA,NA,NA,NA,NA
+Class-V,Kachrauli (CT),Panipat,5400,NA,NA,NA,NA,NA
+Class-V,Manethi (CT),Rewari,5070,NA,NA,NA,NA,NA
+Class-V,Kanwla (CT),Ambala,5024,NA,NA,NA,NA,NA
+Class-VI,Bir Ghaghar (CT),Panchkula,4943,NA,NA,NA,NA,NA
+Class-VI,Ram Garh (CT),Panchkula,4934,NA,NA,NA,NA,NA
+Class-VI,Majra (CT),Ambala,4884,NA,NA,NA,NA,NA
+Class-VI,Piala (CT),Faridabad,4291,NA,NA,NA,NA,NA
+Class-VI,HMT Pinjore (CT),Panchkula,3873,NA,NA,NA,NA,NA
+Class-VI,Fazalpur (CT),Sonipat,3692,NA,NA,NA,NA,NA
+Class-VI,Kakar Majra (CT),Ambala,3246,NA,NA,NA,NA,NA
+Class-VI,Faizabad (CT),Jhajjar,1309,NA,NA,NA,NA,NA
