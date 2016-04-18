@@ -67,25 +67,28 @@ if fields[0] == "id":
 
 
 fhand = open("BB_MongoDB.json", 'w')
+fh1 = open("BB_MongoDB_test.json", 'wb')
 
 var_i = 0
 bb_mongo = list()
 for values in json_bb['data']:
   rec = list()
+  values[0] = int( values[0] )
   for index in range( len( fields ) ):
+    print "Index :", index, "fields :", fields[index], "values :", values[index], type( values[index] )
     rec.append( ( fields[index], values[index] ) )
 
   temp_data = dict( rec )
-  ##### print "\n\n\n\n\ntype(temp_data) :", type(temp_data)
+  print "\n\n\n\n\ntype(temp_data) :", type(temp_data), temp_data
 #####  temp_data2 = json.dumps( temp_data, sort_keys = True )
   ##### print "\n\n\n\n\ntype(temp_data2) :", type(temp_data2), temp_data2
 
 #####  Comment Next line as it is not required currently
 #####  bb_mongo.append( temp_data )
 
-  ##### json.dump(temp_data, fhand)
+  ##### fh1.write( json.dump(temp_data, sort_keys = True ) + u"\n" )
+  json.dump( temp_data, fh1, sort_keys = True, indent = 0 )
   fhand.write( json.dumps( temp_data, sort_keys = True, ensure_ascii = False ) + u"\n" )
-#####  fhand.write( temp_data2 + u"\n" )
 
   if var_i < 22:
       print var_i, "Values :", values, "\n\n"
