@@ -52,8 +52,7 @@ var_i = 0
 for label in json_bb['fields']:
   fields[var_i] = label['label']
   var_i = var_i + 1
-  # print var_i, label
-  # print label['label']
+  # print var_i, label['label'], label
 
 # Change "id" to "_id" for use as MongoDB "_id"
 if fields[0] == "id":
@@ -66,33 +65,36 @@ if fields[0] == "id":
 ##### print "\n\n  len( fields )   :", len(fields)
 
 
-fhand = open("BB_MongoDB.json", 'w')
-fh1 = open("BB_MongoDB_test.json", 'wb')
+fhand = open("BB_MongoDB.json", 'wb')
+##### fh1 = open("BB_MongoDB_test.json", 'wb')
+
+#####  Comment Next line as it is not required currently
+##### bb_mongo = list()
 
 var_i = 0
-bb_mongo = list()
 for values in json_bb['data']:
   rec = list()
   values[0] = int( values[0] )
   for index in range( len( fields ) ):
-    print "Index :", index, "fields :", fields[index], "values :", values[index], type( values[index] )
+    ##### print "Index :", index, "fields :", fields[index], "values :", values[index], type( values[index] )
     rec.append( ( fields[index], values[index] ) )
 
   temp_data = dict( rec )
-  print "\n\n\n\n\ntype(temp_data) :", type(temp_data), temp_data
-#####  temp_data2 = json.dumps( temp_data, sort_keys = True )
-  ##### print "\n\n\n\n\ntype(temp_data2) :", type(temp_data2), temp_data2
+  print "\n\ntype(temp_data) :", type(temp_data), temp_data
 
 #####  Comment Next line as it is not required currently
 #####  bb_mongo.append( temp_data )
 
-  ##### fh1.write( json.dump(temp_data, sort_keys = True ) + u"\n" )
-  json.dump( temp_data, fh1, sort_keys = True, indent = 0 )
-  fhand.write( json.dumps( temp_data, sort_keys = True, ensure_ascii = False ) + u"\n" )
+  ##### json.dump ( use "indent = 0" to print records in different lines )
+  ##### json.dump( temp_data, fh1, sort_keys = True, indent = 0 )
+
+  fhand.write( json.dumps( temp_data ) + u"\n" )
+  ##### fhand.write( json.dumps( temp_data, sort_keys = True, ensure_ascii = False ) + u"\n" )
 
   if var_i < 22:
       print var_i, "Values :", values, "\n\n"
       print "\n\nRecord :" , rec
+#####  Comment Next line as it is not required currently
       ##### print "\n\n\nIndex :", var_i, "Mongo_BB :" , bb_mongo
   var_i += 1
 
