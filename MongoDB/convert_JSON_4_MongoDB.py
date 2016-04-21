@@ -1,3 +1,4 @@
+########################################################################
 # Written by :     Gurdyal Singh
 # Written on :     April 16, '2016
 # Description :    Pretty Print a JSON file into another FILE or STRING
@@ -13,6 +14,8 @@
 #                  Convert a list of Values into MongoDB JSON format
 # Completed on :   April 17, 2016
 # Total Days  :    Approximately 20 Hours
+########################################################################
+
 
 
 
@@ -88,8 +91,9 @@ for values in json_bb['data']:
   ##### json.dump ( use "indent = 0" to print records in different lines )
   ##### json.dump( temp_data, fh1, sort_keys = True, indent = 0 )
 
-  fhand.write( json.dumps( temp_data ) + u"\n" )
+  ##### fhand.write( json.dumps( temp_data ) + u"\n" )
   ##### fhand.write( json.dumps( temp_data, sort_keys = True, ensure_ascii = False ) + u"\n" )
+  fhand.write( json.dumps( temp_data, sort_keys = True ) + u"\n" )
 
   if var_i < 22:
       print var_i, "Values :", values, "\n\n"
@@ -100,10 +104,10 @@ for values in json_bb['data']:
 
 
 # fhand = open("BB_MongoDB.json", 'w')
-#   json.dump(bb_mongo, fhand, sort_keys = True)
+#   json.dump(bb_mongo, fhand, sort_keys = True, indent = 0)
 
 # with open("BB_MongoDB.with_open", 'w') as outfile:
-#   json.dump(bb_mongo, outfile)
+#   json.dump(bb_mongo, outfile, indent = 0, sort_keys = True)
 
 
 
